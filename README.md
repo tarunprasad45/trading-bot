@@ -8,7 +8,7 @@ Built with separation of concerns, pre-trade validation, dry-run simulation, and
 ## Setup
 
 ```bash
-git clone [<repo-url>](https://github.com/tarunprasad45/trading-bot.git) && cd trading_bot
+git clone https://github.com/tarunprasad45/trading-bot.git && cd trading_bot
 pip install -r requirements.txt
 ```
 
